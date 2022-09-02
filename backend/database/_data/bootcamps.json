@@ -1,0 +1,29 @@
+[
+    {
+        "name": "PHP advande mode",
+        "website": "laravel.com/bootcamps",
+        "phone" : "(+54) 3145742566",
+        "description": "php for sinio developers",
+        "average_rating": 0,
+        "average_cost":0,
+        "user_id":1
+    },
+    {
+        "name": "Python for data science",
+        "website": "python.com/bootcamps",
+        "phone" : "(+54) 3125915013",
+        "description": "Python for beginners",
+        "average_rating": 1,
+        "average_cost":0,
+        "user_id":1
+    },
+    {
+        "name": "Java y scala mode",
+        "website": "scala.com/bootcamps",
+        "phone" : "(+54) 3198742456 ",
+        "description": "scala for data developers",
+        "average_rating": 1,
+        "average_cost":0,
+        "user_id":1
+    }
+]
