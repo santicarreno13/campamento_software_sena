@@ -1,0 +1,18 @@
+[
+    {
+        "title": "PHP advande",
+        "description": "es una wea de php",
+        "weeks" : 20,
+        "enroll_cost": "mayors",
+        "minimunm_skill": 1,
+        "bootcamp_id":1
+    },
+    {
+        "title": "Python",
+        "description": "es una wea de python",
+        "weeks" : 18,
+        "enroll_cost": "junior",
+        "minimunm_skill": 0,
+        "bootcamp_id":1
+    }
+]

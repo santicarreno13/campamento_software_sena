@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\BootcampController;
+use App\Http\Controllers\CourseController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -21,3 +22,4 @@ use App\Http\Controllers\BootcampController;
 //La calse SOLO PARA LARAVEL Route: Encarga de rutas.
 //Metodo apiResourse:: crea rutas de cambios de estado para una endidad
 Route::apiResource('bootcamps',BootcampController::class);
+Route::apiResource('courses',CourseController::class);
